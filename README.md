@@ -35,4 +35,10 @@ Enterprise customers can opt for SLA, insurance, and extended support.
 
 ---
 
+## 📬 Contact
+For inquiries, partnerships, or support, please contact us at:  
+**[office@codiantrust.com](mailto:office@codiantrust.com)**  
+
+Official website: [www.codiantrust.com](https://www.codiantrust.com)
+
 © 2025 Codian Trust s.r.o.
