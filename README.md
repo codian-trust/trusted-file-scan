@@ -15,6 +15,8 @@ The first version of the library will soon be available on NPM under:
 ```bash
 npm install @codian/trusted-file-scan
 
+
+
 🔒 Planned features
 	•	Validation of file formats (PDF, DOCX, XML, JSON, …)
 	•	Calculation and logging of file hashes
