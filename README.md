@@ -15,17 +15,3 @@ The first version of the library will soon be available on NPM under:
 ```bash
 npm install @codian/trusted-file-scan
 
-
-
-🔒 Planned features
-	•	Validation of file formats (PDF, DOCX, XML, JSON, …)
-	•	Calculation and logging of file hashes
-	•	Generation of digitally signed audit reports
-	•	Easy integration into enterprise and public-sector systems
-
-📑 License
-
-MIT License (for the OSS part).
-Enterprise customers can opt for SLA, insurance, and extended support.
-
-© 2025 Codian Trust s.r.o.
